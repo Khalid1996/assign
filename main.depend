@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1544726974 source:c:\users\mohamed\desktop\assignment-4\main.cpp
+	<iostream>
+	"sequence.h"
+	"dna.h"
+	"rna.h"
+	"protein.h"
+	"codonstable.h"
+	<fstream>
+	<string>
+
+1544726723 c:\users\mohamed\desktop\assignment-4\sequence.h
+	<iostream>
+	<cstring>
+
+1544726502 c:\users\mohamed\desktop\assignment-4\dna.h
+	"codonstable.h"
+	"rna.h"
+	"dna.h"
+	"sequence.h"
+	"protein.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1544726425 c:\users\mohamed\desktop\assignment-4\codonstable.h
+	"codonstable.h"
+	"rna.h"
+	"dna.h"
+	"sequence.h"
+	"protein.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1544726657 c:\users\mohamed\desktop\assignment-4\rna.h
+	"codonstable.h"
+	"rna.h"
+	"dna.h"
+	"sequence.h"
+	"protein.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1544726657 c:\users\mohamed\desktop\assignment-4\protein.h
+	"rna.h"
+	"dna.h"
+	"sequence.h"
+	"codonstable.h"
+	<iostream>
+	<cstring>
+
